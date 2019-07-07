@@ -1,0 +1,19 @@
+
+/*
+
+colores y tipografia 
+
+tipografia con font-family
+
+*/
+h1{
+	font-weight: normal;;
+
+
+}
+p{
+	color: blue;
+	font-family:Arial; 
+	font-size: 20px;
+	font-weight:bold;
+}

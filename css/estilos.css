@@ -1,0 +1,42 @@
+/* 
+*{} -> selector universal de todas las etiquedas
+
+
+*{
+	margin: 0;
+	padding: 0;
+
+
+
+}
+
+   */
+h1, h2,h3,h4,h5,h6{
+
+	color: red;
+
+}
+h1{
+	/*esta duncion de sont-size solo es para el tamo y es un selector de etiqueta*/
+	font-size:60px; 
+
+}
+
+p{
+	color: blue;
+
+}
+a {
+	color: yellow;
+
+
+}
+p a{
+
+	color: green;
+	font-size: 20px;
+}
+.yellow{
+
+	font-size: 40px
+}

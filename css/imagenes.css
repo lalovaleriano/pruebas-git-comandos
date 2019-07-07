@@ -1,0 +1,17 @@
+div{
+	background: black;
+	width: 100%;
+}
+img{
+  /*para centrar una imagen basta tener 
+  un ancho en el contenedor como en la imagen
+	y usar un margen y un display block para que lo
+	ponga en un bloque y lo centre
+  */
+	width: 400px;
+	height: auto;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow:5px 8px 5px gray;
+}

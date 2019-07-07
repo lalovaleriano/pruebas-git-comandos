@@ -1,0 +1,26 @@
+/* 
+
+colores en las partes del html 
+agua,red,white
+los colores se pueden declarar en RGB
+
+
+
+
+*/
+h1{
+	/*
+	en rgb
+	color:rgb(11,131,212);
+	
+
+	--en hexadecimal
+		color: #D40B6F;
+	
+	--en rgba la letra a es para decir que tan transparente se vera el texto
+	
+
+*/
+	
+color:rgba(255,100,0,.8);
+}

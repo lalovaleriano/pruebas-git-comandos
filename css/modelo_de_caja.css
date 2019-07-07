@@ -1,0 +1,15 @@
+div{
+	/*
+	width ando del texto o parte del html.
+	background para el fondo de la parte html.
+	margin para el margen.
+	padding el relleno 
+	border sacarle un borde y un tipo solido o punteado
+	*/
+	width: 500px;
+	background: #ff8000; 
+	margin: 20px;
+	padding: 10px;
+	border: 10px solid #000;
+	display:inline-block;
+}
